@@ -1,0 +1,1 @@
+execute '%!python -m json.tool' | w  
